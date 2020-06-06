@@ -1,0 +1,1 @@
+BasKörver.EliteDangerous.JournalLogger
